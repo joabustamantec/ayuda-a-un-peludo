@@ -1,0 +1,38 @@
+*{
+  margin:5px;
+  padding: 5px;
+  font-family: sans-serif;
+
+}
+
+.navegacion{
+background-color: black;
+}
+
+.navegacion li a{
+text-decoration: none;
+color: white;
+}
+
+.navegacion li:hover{
+background-color:violet;
+}
+
+.contenedor{
+border:solid 1px black;
+margin: 5px;
+padding: 5px;
+}
+
+.header{
+background-color: green;
+color: white;
+padding: 10px;
+border:solid 1px black;
+text-align: center;
+}
+
+.contenido{
+border:solid 1px black;
+}
+
