@@ -25,6 +25,12 @@
     text-decoration: none;
 }
 
+.navegacion li:hover {
+    color: orangered;
+    filter: brightness(0.5);
+    transition: 0.5s;
+}
+
 .contenido {
     height: 100vh;
     text-align: justify;
