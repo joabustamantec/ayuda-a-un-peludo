@@ -12,6 +12,15 @@
   
   }
 
+.bordeizq{
+  background-color: rgb(0, 0, 0);
+  width: 2%;
+  height: 100%;
+  float: right;
+  top: 10px;
+  padding: 8px;
+}
+
 .navegacion{
   background-color: rgb(0, 0, 0);
   width: 20%;
