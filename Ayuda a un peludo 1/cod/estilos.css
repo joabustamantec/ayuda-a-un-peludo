@@ -1,0 +1,61 @@
+* {
+    color: white;
+    margin: 0%;
+}
+
+.pagina {
+    background-color: black;
+    padding: 5px;
+}
+
+.navegacion {
+    background-color: black;
+    float: left;
+    width: 20%;
+    height: 100vh;
+    padding-right: 30px;
+}
+
+.navegacion li {
+    display: block;
+    list-style: none;
+}
+
+.navegacion li a {
+    text-decoration: none;
+}
+
+.navegacion li:hover {
+    color: orangered;
+    filter: brightness(0.5);
+    transition: 0.5s;
+}
+
+.contenido {
+    height: 100vh;
+    text-align: justify;
+}
+
+.titulos {
+    font-style: italic;
+}
+
+.parrafo1 {
+    background-color: cornflowerblue;
+    height: 25vh;
+}
+
+.parrafo2 {
+    background-color: yellow;
+    height: 25vh;
+}
+
+.parrafo3 {
+    background-color: orange;
+    height: 25vh;
+}
+
+.parrafo4 {
+    background-color: red;
+    height: 25vh;
+}
